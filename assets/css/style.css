@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #ffffff;
+  color: #333333;
+  margin: 2em;
+}
+a {
+  color: #b31b1b;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1em;
+}
+nav li {
+  display: inline;
+}

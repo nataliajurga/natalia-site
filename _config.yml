@@ -1,0 +1,15 @@
+title: Natalia Jurga
+email: your@email.com
+description: >
+  Personal website of a pure mathematician.
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
