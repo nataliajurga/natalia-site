@@ -2,7 +2,7 @@ title: Natalia Jurga
 email: your@email.com
 description: >
   Personal website of a pure mathematician.
-baseurl: ""
+baseurl: "/natalia-site"
 url: "https://yourusername.github.io"
 theme: minima
 plugins:
